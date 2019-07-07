@@ -21,6 +21,7 @@
 | Пример           | Выполняет заполнение блока "Исходные данные" и выполняет их обработку|
 
 * Теги  
+
 Длина байтовой последовательности, длина hex-кода, разница между байтами, разница между hex-кодами, размер hex блока, размер hex кода, различие между двумя блоками hex, разница в количества байтов, различие в количестве байт, разные байт последовательности.
 
 ## English  
@@ -44,4 +45,5 @@ The program interface is available in two languages: Russian and English.
 | Example           | Fills the "Source data" block and processes it                   |
 
 * Tags  
+
 The length of the byte sequence, the length of the hex code, the difference between bytes, the difference between hex codes, the size of a hex block, the size of a hex code, the difference between two blocks of hex, the difference in the number of bytes, the difference in the number of bytes, different bytes of the sequence.
