@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ByteArithmetic", "ByteArithmetic.csproj", "{4BA38A87-4B91-47BB-9711-F687DB243275}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LocalBuiltRes", "LocalBuiltRes", "{96C9FA9C-FBA5-4513-9E15-02E2C7F1B943}"
+	ProjectSection(SolutionItems) = preProject
+		beta.png = beta.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BA38A87-4B91-47BB-9711-F687DB243275}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BA38A87-4B91-47BB-9711-F687DB243275}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BA38A87-4B91-47BB-9711-F687DB243275}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BA38A87-4B91-47BB-9711-F687DB243275}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C48BAC04-6F65-4F48-98F6-3D653F5EF250}
+	EndGlobalSection
+EndGlobal
